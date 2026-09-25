@@ -1,0 +1,4 @@
+shonkha a = 00042;
+doshomik b = 0003.50;
+lehkho(a);
+lehkho(b);

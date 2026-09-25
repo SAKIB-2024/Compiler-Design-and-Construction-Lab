@@ -1,0 +1,19 @@
+// Arithmetic precedence, types, assignment, if/else, and while.
+shonkha a = 2 + 3 * 4;
+doshomik b = a / 2.0;
+shobdo s = "hello" + " world";
+
+a = 15;
+
+jodi (a > 20) {
+    lehkho("wrong");
+} nahole {
+    lehkho(s);
+}
+
+jokhon (a < 18) {
+    a = a + 1;
+}
+
+lehkho(a);
+lehkho(b);

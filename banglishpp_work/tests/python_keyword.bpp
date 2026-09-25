@@ -1,0 +1,3 @@
+shonkha class = 1;
+shonkha def = class + 1;
+lehkho(class + def);

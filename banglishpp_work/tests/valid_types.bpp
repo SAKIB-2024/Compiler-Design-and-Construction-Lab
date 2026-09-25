@@ -1,0 +1,8 @@
+shonkha a = 7;
+doshomik b = a + 2.5;
+shobdo c = "hello" + " world";
+a = 9;
+b = 3;
+lehkho(a);
+lehkho(b);
+lehkho(c);

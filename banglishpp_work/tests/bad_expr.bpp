@@ -1,0 +1,3 @@
+shonkha a = ;
+shonkha b = 2;
+lehkho(b);
